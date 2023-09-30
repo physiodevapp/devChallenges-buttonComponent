@@ -1,9 +1,10 @@
-// import viteLogo from "/vite.svg";
+
+import ButtonComponent from "./components/ButtonComponent";
 
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <ButtonComponent />
     </>
   );
 }
